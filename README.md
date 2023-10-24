@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/972146107087986728) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahmudhassanlehri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahmud_hassan_lehri) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mhlehri) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mh_lehri) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mhlehri) 
 
 
-![Alt Error](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fgirlswhocode-computer-2Ygy0khwewLgMSYM0t&psig=AOvVaw1aSjTB0ZmjeBnNMuek-Kr1&ust=1698277775396000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC4me_vj4IDFQAAAAAdAAAAABAJ)
+[![Alt Error](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fgirlswhocode-computer-2Ygy0khwewLgMSYM0t&psig=AOvVaw1aSjTB0ZmjeBnNMuek-Kr1&ust=1698277775396000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC4me_vj4IDFQAAAAAdAAAAABAJ)]
 
 
 # 💻 Tech Stack:
