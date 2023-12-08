@@ -1,6 +1,5 @@
 <p align="center">
-  
-  <a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mhlehri&theme=nightfox&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mhlehri&theme=nightfox&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 <br>
 <br>
 <h3 align="center">🚀 Contact through</h3>
