@@ -1,7 +1,7 @@
 <img src="img/Banner.png"/>
 
 
-# 👤 About me
+# Hi, I'm Lehri! 👋
 I am a dedicated web enthusiast committed to continuous learning and growth. My unwavering vision is to architect user-centric web solutions that elevate and enrich the online experiences of individuals. Currently, I am actively seeking opportunities to further enhance my expertise and contribute meaningfully in a professional capacity.
 
 - 🌱 I’m currently learning Next.js and more about JS & React, and I believe every day is a learning opportunity.
