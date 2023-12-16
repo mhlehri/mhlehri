@@ -11,7 +11,7 @@ I am a dedicated web enthusiast committed to continuous learning and growth. My 
 I divided my project into several parts, which helped me a lot to maintain and finish quickly.  Additionally, I begin with crafting a static design, subsequently transforming it into a dynamic, engaging interface. I use **HTML, CSS, Tailwind, JS, React, MongoDB, Express** & some other libraries & frameworks for my projects. I am dedicated to delivering exceptional results in all my endeavors.
 
 
-## 📈 Steak
+## 📈 Streak
 <p>
   
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mhlehri&theme=shadow-blue&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
