@@ -1,4 +1,4 @@
-<img src="img/Banner.png"/>
+<!-- <img src="img/Banner.png"/> -->
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=mhlehri&theme=shadow-blue&hide_border=true&border_radius=8" alt="GitHub Streak" />
 <h2 align='center'>📭 Contact me</h2>
