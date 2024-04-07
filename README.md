@@ -13,11 +13,11 @@
 </p>
 
 
-<h2 align='center'>🖥️ Languages and Tools I use</h2>
- <p align='center'> 
+<!--<h2 align='center'>🖥️ Languages and Tools I use</h2>
+<p align='center'> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,next,express,mongodb,firebase" />
   </a>
-   </p>
+   </p> -->
 </p>
 </p>
