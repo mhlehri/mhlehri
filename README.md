@@ -23,4 +23,4 @@
 </p>
 -->
 
-# [c_c](https://lehri.vercel.app)
+# <a href="https://lehri.vercel.app" target="_blank" alt="portfolio">c_c</a>
