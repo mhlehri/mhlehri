@@ -1,6 +1,6 @@
  <img src="img/Banner.png"/> 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mhlehri" alt="GitHub Streak" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mhlehri" alt="GitHub Streak" />
 </p>  <h2 align='center'>📭 Contact me</h2>
 <p align='center'>
 <a href="https://linkedin.com/in/mahmud-hassan-lehri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmud-hassan-lehri" height="30" width="40" /></a>
