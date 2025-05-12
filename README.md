@@ -1,4 +1,4 @@
- <img src="img/Banner.png"/> 
+<!-- <img src="img/Banner.png"/>  
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mhlehri" alt="GitHub Streak" />
 </p>  <h2 align='center'>📭 Contact me</h2>
@@ -20,5 +20,5 @@
    </p> 
 </p>
 </p>
-
+-->
 ## <a href="https://lehri.vercel.app" target="_blank" alt="portfolio">c_c</a>
